@@ -14,6 +14,6 @@
 <h2>🛠 Tools & Tech I Work With</h2>
 <ul>
   <li><strong>Visualizations:</strong> Tableau, Power BI</li>
-  <li><strong>Data analysis:</strong> SQL, Excel, R</li>
+  <li><strong>Data analysis:</strong> MySQL and T-SQL, Excel, R</li>
   <li><strong>Other:</strong> Trello, Jira</li>
 </ul>
