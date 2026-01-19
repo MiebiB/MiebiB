@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jane Bedford 👋</h1>
 <p>
-  I'm an Analyst with over 2 year of experience leading cross-functional teams, conducting market and user research in startup environments.
+  I'm an Analyst with over 2 years of experience leading cross-functional teams, conducting market and user research in startup environments.
 </p>
 
 <h2>About Me</h2>
